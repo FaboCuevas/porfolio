@@ -1,4 +1,4 @@
-# 👨‍💻 [Your Name] - Experienced iOS Developer
+# 👨‍💻 Fabricio Cuevas - Experienced iOS Developer
 
 A professional portfolio showcasing my work in developing and maintaining high-profile mobile applications.
 
@@ -62,13 +62,12 @@ Below are the key applications I have developed and contributed to, currently av
 | :--- | :--- |
 | **Description** | A business productivity app (likely the **SchedulePro by Shiftboard**) used for workforce scheduling and management for NVR (a major US homebuilder). Allows users to view shifts, manage availability, and receive real-time notifications for schedule changes. |
 | **Role/Focus** | *[Briefly describe your contribution, e.g., Implemented Secure Authentication flow, Developed Shift Management screens, Enhanced offline data handling.]* |
-| **App Store** | [Link to the App on the App Store (SchedulePro by Shiftboard)](https://apps.apple.com/mx/app/schedulepro-by-shiftboard/id1528602950?l=en-GB) |
+| **App Store** | [Link to the App on the App Store (SchedulePro by Shiftboard)]([https://apps.apple.com/mx/app/schedulepro-by-shiftboard/id1528602950?l=en-GB](https://appadvice.com/app/schedulepro-mobile/1119300618) |
 | **Image** | [![SchedulePro App Icon]([NVR Schedule Pro Image URL])]([Link to the App on the App Store (SchedulePro by Shiftboard)]) |
 
 ---
 
 ## 🔗 Connect with Me
 
-* **LinkedIn:** [Your LinkedIn Profile URL]
-* **Email:** [Your Email Address]
-* **GitHub:** [Your GitHub Profile URL]
+* **LinkedIn:** [https://www.linkedin.com/in/fabocuevas/]
+* **Email:** [fabo.cuevas@gmail.com]
