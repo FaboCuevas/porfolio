@@ -1,8 +1,3 @@
-Here is the complete Markdown code for your portfolio `README.md`.
-
-You just need to copy this code and paste it into a file named **`README.md`** in your repository. Remember to replace the **placeholders** (e.g., `[Your Name]`, `[Image URL]`, `[Link to the App on the App Store]`) with your actual information.
-
-```markdown
 # 👨‍💻 [Your Name] - Experienced iOS Developer
 
 A professional portfolio showcasing my work in developing and maintaining high-profile mobile applications.
@@ -77,4 +72,3 @@ Below are the key applications I have developed and contributed to, currently av
 * **LinkedIn:** [Your LinkedIn Profile URL]
 * **Email:** [Your Email Address]
 * **GitHub:** [Your GitHub Profile URL]
-```
